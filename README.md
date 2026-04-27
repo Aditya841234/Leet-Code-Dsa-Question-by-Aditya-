@@ -81,6 +81,7 @@ Solution
 | [0196-delete-duplicate-emails](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0577-employee-bonus/) | Easy |
+| [0595-big-countries](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
