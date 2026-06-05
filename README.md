@@ -6,6 +6,7 @@ Solution
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
@@ -59,6 +60,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
