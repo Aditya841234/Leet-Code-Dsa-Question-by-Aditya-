@@ -1,26 +1,22 @@
 class Solution {
 public:
-   void permutations(vector<int>&arr,vector<vector<int>>&ans,vector<int>&temp,vector<int>visitors){
-      if(visitors.size()==temp.size()){
-        ans.push_back(temp);
+   void permutations(vector<int>&arr,vector<vector<int>>&ans,int index){
+      if(arr.size()==index){
+        ans.push_back(arr);
         return;
       }
-    
-      for(int i=0;i<visitors.size();i++){
-        if(visitors[i]==0){
-            visitors[i]=1;
-            temp.push_back(arr[i]);
-            permutations(arr,ans,temp,visitors);
-            visitors[i]=0;
-            temp.pop_back();
-        }
+     
+     
+      for(int i =index;i<arr.size();i++){
+        swap(arr[i],arr[index]);
+        permutations(arr,ans,index+1);
+        swap(arr[i],arr[index]);
       }
    }
     vector<vector<int>> permute(vector<int>& nums) {
        vector<vector<int>> ans;
-       vector<int>temp;
-       vector<int>visitors(nums.size(),0);
-      permutations(nums,ans,temp,visitors);
+      
+      permutations(nums,ans,0);
       return ans;
     }
 };
