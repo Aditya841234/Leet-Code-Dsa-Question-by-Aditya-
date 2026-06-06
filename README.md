@@ -12,12 +12,14 @@ Solution
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +90,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +130,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
