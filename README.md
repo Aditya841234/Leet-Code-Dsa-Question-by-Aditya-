@@ -7,6 +7,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
@@ -71,6 +72,7 @@ Solution
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
