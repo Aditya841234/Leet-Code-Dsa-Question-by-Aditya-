@@ -99,6 +99,7 @@ Solution
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
@@ -151,4 +152,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
