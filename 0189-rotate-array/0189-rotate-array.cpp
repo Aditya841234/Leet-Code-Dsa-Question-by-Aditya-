@@ -3,21 +3,16 @@ public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
         k %= n;
-        vector<int>tempArr(n);
-        // tacking number who that will be first of the array 
-        for(int j=n-k;j<n;j++){
-           tempArr[j-(n-k)]=nums[j];
-        }
+       // we have alternative method to solve the problem like using stl from the sorting and reversing
 
-        // tacking the reaming on the end of the array 
-        for(int i =0;i<n-k;i++){
-            tempArr[k+i]=nums[i];
-        }
+       reverse(nums.begin(),nums.end()-k);
 
-        //copy the all the element from the tempArr to actual array
-        for(int i=0;i<n;i++){
-            nums[i] = tempArr[i];
-        }
-        
+        // ereversing the element whoes are greater than the n-k element 
+
+        reverse(nums.begin()+(n-k),nums.end());
+
+        //reversing the all array for the answer 
+
+        reverse(nums.begin(),nums.end());
     }
 };
