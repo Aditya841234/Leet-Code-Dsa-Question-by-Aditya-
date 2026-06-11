@@ -100,6 +100,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
@@ -156,4 +157,5 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
