@@ -11,19 +11,16 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-       ListNode* temp=head;
-       int count =0;
-       while(temp){
-         count++;
-         temp = temp->next;
-       }
-       temp=head;
-       count = count/2;
-       while(count){
-        temp=temp->next;
-        count--;
-       }
+      
+      //this is our second approach that is help to find out my answer 
+      ListNode* slow=head;
+      ListNode* fast=head;
+        // if you wirte fast after the fast next than it will be try to access from the null and next of the null that make it cause and give us segement fault 
+      while(fast && fast->next){
+        slow=slow->next;
+        fast=fast->next->next;
+      }
 
-       return temp;
+      return slow;
     }
 };
