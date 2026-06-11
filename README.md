@@ -128,6 +128,7 @@ Solution
 | [0189-rotate-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -158,4 +159,5 @@ Solution
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
