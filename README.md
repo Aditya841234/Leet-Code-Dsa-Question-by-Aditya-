@@ -134,6 +134,7 @@ Solution
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ Solution
 | [0206-reverse-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
