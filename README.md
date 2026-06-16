@@ -27,6 +27,7 @@ Solution
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Solution
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
