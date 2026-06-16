@@ -66,6 +66,7 @@ Solution
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
@@ -179,6 +180,7 @@ Solution
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
