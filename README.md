@@ -24,6 +24,7 @@ Solution
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -70,6 +71,7 @@ Solution
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -138,6 +140,7 @@ Solution
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -183,6 +186,7 @@ Solution
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
