@@ -29,6 +29,7 @@ Solution
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Hash Table
@@ -76,6 +77,7 @@ Solution
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Backtracking
@@ -194,6 +196,7 @@ Solution
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
