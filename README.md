@@ -98,6 +98,7 @@ Solution
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
