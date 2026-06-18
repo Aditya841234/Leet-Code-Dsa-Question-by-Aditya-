@@ -11,6 +11,7 @@ Solution
 | [0046-permutations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0189-rotate-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0189-rotate-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
@@ -188,6 +189,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -195,6 +197,7 @@ Solution
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
