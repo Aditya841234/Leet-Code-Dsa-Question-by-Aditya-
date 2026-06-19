@@ -17,6 +17,7 @@ Solution
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -165,6 +166,7 @@ Solution
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
