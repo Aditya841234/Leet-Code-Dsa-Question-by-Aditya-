@@ -13,6 +13,7 @@ Solution
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0189-rotate-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0189-rotate-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
@@ -60,6 +61,7 @@ Solution
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
@@ -184,11 +186,13 @@ Solution
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -230,4 +234,8 @@ Solution
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
