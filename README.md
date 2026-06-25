@@ -12,6 +12,7 @@ Solution
 | [0047-permutations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0137-single-number-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0137-single-number-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -108,6 +109,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
+| [0137-single-number-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0137-single-number-ii/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
