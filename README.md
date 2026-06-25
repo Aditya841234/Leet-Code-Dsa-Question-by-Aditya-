@@ -17,6 +17,7 @@ Solution
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -107,6 +108,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@ Solution
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
@@ -187,6 +190,7 @@ Solution
 | [0225-implement-stack-using-queues](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sliding Window
@@ -194,6 +198,7 @@ Solution
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
