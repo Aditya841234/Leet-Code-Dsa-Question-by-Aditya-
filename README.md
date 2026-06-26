@@ -87,6 +87,7 @@ Solution
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
 | [0344-reverse-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -245,4 +246,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
