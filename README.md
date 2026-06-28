@@ -24,6 +24,7 @@ Solution
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -60,6 +61,7 @@ Solution
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ Solution
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
