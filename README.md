@@ -224,6 +224,7 @@ Solution
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -255,4 +256,16 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0796-rotate-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
