@@ -48,6 +48,7 @@ Solution
 | [0347-top-k-frequent-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Solution
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
@@ -206,6 +208,7 @@ Solution
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
