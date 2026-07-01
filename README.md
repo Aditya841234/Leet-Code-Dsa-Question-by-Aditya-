@@ -117,6 +117,7 @@ Solution
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0137-single-number-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
@@ -268,6 +269,7 @@ Solution
 | [0100-same-tree](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,8 +284,13 @@ Solution
 | [0100-same-tree](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0100-same-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
