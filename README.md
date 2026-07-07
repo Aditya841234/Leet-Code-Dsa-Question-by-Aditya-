@@ -128,6 +128,7 @@ Solution
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
