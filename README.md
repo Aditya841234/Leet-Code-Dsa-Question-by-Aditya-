@@ -31,6 +31,7 @@ Solution
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Solution
 | [1189-maximum-number-of-balloons](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,4 +303,13 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
