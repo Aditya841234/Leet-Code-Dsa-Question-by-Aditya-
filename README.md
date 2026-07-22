@@ -20,6 +20,7 @@ Solution
 | [0912-sort-an-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0912-sort-an-array/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -36,6 +37,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0844-backspace-string-compare/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -317,4 +319,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
