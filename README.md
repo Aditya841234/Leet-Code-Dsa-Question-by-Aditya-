@@ -32,6 +32,7 @@ Solution
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Solution
 | [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Solution
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
