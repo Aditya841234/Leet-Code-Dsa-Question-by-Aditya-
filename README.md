@@ -145,6 +145,7 @@ Solution
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@ Solution
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
