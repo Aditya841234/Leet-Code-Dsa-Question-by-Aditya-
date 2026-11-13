@@ -33,6 +33,7 @@ Solution
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -224,6 +225,7 @@ Solution
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ Solution
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,11 +263,13 @@ Solution
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +286,7 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,4 +351,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
