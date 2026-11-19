@@ -31,6 +31,7 @@ Solution
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -74,6 +75,7 @@ Solution
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -277,6 +279,7 @@ Solution
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Design
 | Problem Name | Difficulty |
