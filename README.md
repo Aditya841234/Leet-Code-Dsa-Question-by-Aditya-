@@ -33,6 +33,7 @@ Solution
 | [2161-partition-array-according-to-given-pivot](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -76,6 +77,7 @@ Solution
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -157,6 +159,7 @@ Solution
 | [0022-generate-parentheses](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0509-fibonacci-number/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
