@@ -35,6 +35,7 @@ Solution
 | [2574-left-and-right-sum-differences](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -60,6 +61,7 @@ Solution
 | [1189-maximum-number-of-balloons](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
@@ -116,6 +118,7 @@ Solution
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -307,6 +310,7 @@ Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +319,7 @@ Solution
 | [0101-symmetric-tree](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
