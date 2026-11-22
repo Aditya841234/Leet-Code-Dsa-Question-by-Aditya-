@@ -116,6 +116,7 @@ Solution
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3174-clear-digits](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3174-clear-digits/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
