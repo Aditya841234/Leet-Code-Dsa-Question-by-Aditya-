@@ -36,6 +36,7 @@ Solution
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -152,6 +153,7 @@ Solution
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1840-maximum-building-height](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1840-maximum-building-height/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -243,6 +245,7 @@ Solution
 | [0567-permutation-in-string](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0567-permutation-in-string/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -351,6 +354,7 @@ Solution
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -368,4 +372,8 @@ Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya841234/Leet-Code-Dsa-Question-by-Aditya-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
